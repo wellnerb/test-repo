@@ -1,2 +1,2 @@
 # test-repo
-Test repo for courser data science track
+Test repo for coursera data science track
